@@ -1,0 +1,109 @@
+<RCC>
+  <qresource prefix="bg_quadro">
+    <file>22-226826_clipart-teacher-board-teacher-blackboard-clipart.png</file>
+  </qresource>
+  <qresource prefix="cartas_completadas">
+    <file>carta_competenciascompleto.png</file>
+    <file>carta_conclusao2completo.png</file>
+    <file>carta_desenvolvimento2completo.png</file>
+    <file>carta_dicasextrascompleto.png</file>
+    <file>carta_introducao2completo.png</file>
+    <file>carta_textodissertativoargumentativocompleto.png</file>
+  </qresource>
+  <qresource prefix="animations">
+    <file>troféu.json</file>
+  </qresource>
+  <qresource prefix="barracarregadaconceitos">
+    <file>carregada1.png</file>
+    <file>carregada2.png</file>
+    <file>carregada3.png</file>
+    <file>carregada4.png</file>
+    <file>carregada5.png</file>
+    <file>carregada6.png</file>
+    <file>carregada7.png</file>
+    <file>carregada8.png</file>
+    <file>carregada9.png</file>
+    <file>carregada10.png</file>
+    <file>carregada11.png</file>
+    <file>carregada12.png</file>
+    <file>carregada13.png</file>
+  </qresource>
+  <qresource prefix="btn_mensagemsair">
+    <file>botaonaosair.png</file>
+    <file>botaosimsair.png</file>
+    <file>mensagemsair.png</file>
+  </qresource>
+  <qresource prefix="imagens_txt">
+    <file>simboloargumentos.png</file>
+    <file>estruturatexto.png</file>
+    <file>PROBLEMA.png</file>
+  </qresource>
+  <qresource prefix="btns_treinamento">
+    <file>avaliarapp.png</file>
+    <file>bancodecitacoes.png</file>
+    <file>bancoderedacoes.png</file>
+    <file>calendarioenem.png</file>
+    <file>compartilharapp.png</file>
+    <file>competencias.png</file>
+    <file>criesuaredacao.png</file>
+    <file>dicasimportantes.png</file>
+    <file>redacoesnota1000.png</file>
+  </qresource>
+  <qresource prefix="carta_competencias">
+    <file>carta_competencias.png</file>
+  </qresource>
+  <qresource prefix="carta_dicasextras">
+    <file>carta_dicasextras.png</file>
+  </qresource>
+  <qresource prefix="btn_iniciar">
+    <file>btn_iniciar.png</file>
+  </qresource>
+  <qresource prefix="btn_treinamento_clicado">
+    <file>iconepontosselecionado2.png</file>
+  </qresource>
+  <qresource prefix="btn_perfilselecionado">
+    <file>iconeperfilclicado.png</file>
+  </qresource>
+  <qresource prefix="btn_home_semclicar">
+    <file>iconehomesemselecionar.png</file>
+  </qresource>
+  <qresource prefix="btn_tras">
+    <file>btn_tras2.png</file>
+  </qresource>
+  <qresource prefix="btn_trascinza">
+    <file>btn_trasapagado.png</file>
+  </qresource>
+  <qresource prefix="btn_frentecinza">
+    <file>btn_frenteapagado.png</file>
+  </qresource>
+  <qresource prefix="btn_frente">
+    <file>btn_frente2.png</file>
+  </qresource>
+  <qresource prefix="carta_textodissertativo">
+    <file>carta_textodissertativoargumentativo.png</file>
+  </qresource>
+  <qresource prefix="btn_perfilsemclicar">
+    <file>iconeperfilsemclicar.png</file>
+  </qresource>
+  <qresource prefix="btn_treinamsemclicar">
+    <file>iconepontossemclicar2.png</file>
+  </qresource>
+  <qresource prefix="btn_homeclicado">
+    <file>iconehomeclicado.png</file>
+  </qresource>
+  <qresource prefix="logo_cadastro">
+    <file>logoquasepronta.png</file>
+  </qresource>
+  <qresource prefix="carta_introducao">
+    <file>carta_introducao2.png</file>
+  </qresource>
+  <qresource prefix="carta_desenvolvimento">
+    <file>carta_desenvolvimento2.png</file>
+  </qresource>
+  <qresource prefix="carta_conclusao">
+    <file>carta_conclusao2.png</file>
+  </qresource>
+  <qresource prefix="logo_login">
+    <file>logoquasepronta.png</file>
+  </qresource>
+</RCC>

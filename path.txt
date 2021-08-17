@@ -1,0 +1,2 @@
+C:\Users\EMILLY\AppData\Local\Temp\Rar$EXa1884.42511\compilador_python_pyinstaller_pyside\;
+D:\dmd2\windows\bin\;D:\dmd2\dm\bin;
